@@ -2,24 +2,28 @@
     {
         "id":1,
         "title": "Ayakkabı",
-        "price":300
+        "price":300,
+        "image":"https://imgfly.scarabresearch.com/w_300/https://st-vans.mncdn.com/mnresize/1000/1000/Content/media/ProductImg/original/637475259623135763.jpg"
     },
 
     {
         "id":2,
         "title":"Kazak",
-        "price":195
+        "price":195,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/31y2SaiGtDL._AC_SR300,300.jpg"
     },
 
     {
         "id":3,
         "title":"Pantolon",
-        "price":250
+        "price":250,
+        "image":"https://images-na.ssl-images-amazon.com/images/I/4173g1-LH0S._AC_SR300,300.jpg"
     },
     
     {
         "id":4,
         "title":"Kaban",
-        "price":600
+        "price":600,
+        "image":"https://ae04.alicdn.com/kf/Hbe699bdd0f904814aefeb078d00f54eeq.jpg_300x300Q70.jpg_.webp"
     }
 ]
